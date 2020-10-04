@@ -1,0 +1,14 @@
+{
+  "name": "bitmio_runner",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -t 10000"
+  },
+  "author": "Mirko Kiefer <mail@mirkokiefer.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^8.1.3"
+  }
+}
